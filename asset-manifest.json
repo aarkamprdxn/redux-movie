@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/aarkamprdxn/redux-movie/static/css/main.25c94668.chunk.css",
-    "main.js": "/aarkamprdxn/redux-movie/static/js/main.1ab1ad1e.chunk.js",
-    "main.js.map": "/aarkamprdxn/redux-movie/static/js/main.1ab1ad1e.chunk.js.map",
-    "runtime-main.js": "/aarkamprdxn/redux-movie/static/js/runtime-main.50e10096.js",
-    "runtime-main.js.map": "/aarkamprdxn/redux-movie/static/js/runtime-main.50e10096.js.map",
-    "static/js/2.094d6e6b.chunk.js": "/aarkamprdxn/redux-movie/static/js/2.094d6e6b.chunk.js",
-    "static/js/2.094d6e6b.chunk.js.map": "/aarkamprdxn/redux-movie/static/js/2.094d6e6b.chunk.js.map",
-    "index.html": "/aarkamprdxn/redux-movie/index.html",
-    "precache-manifest.36612a7065a378e5b94b23a6273fb312.js": "/aarkamprdxn/redux-movie/precache-manifest.36612a7065a378e5b94b23a6273fb312.js",
-    "service-worker.js": "/aarkamprdxn/redux-movie/service-worker.js",
-    "static/css/main.25c94668.chunk.css.map": "/aarkamprdxn/redux-movie/static/css/main.25c94668.chunk.css.map",
-    "static/js/2.094d6e6b.chunk.js.LICENSE.txt": "/aarkamprdxn/redux-movie/static/js/2.094d6e6b.chunk.js.LICENSE.txt"
+    "main.css": "/github.io/redux-movie/static/css/main.25c94668.chunk.css",
+    "main.js": "/github.io/redux-movie/static/js/main.1ab1ad1e.chunk.js",
+    "main.js.map": "/github.io/redux-movie/static/js/main.1ab1ad1e.chunk.js.map",
+    "runtime-main.js": "/github.io/redux-movie/static/js/runtime-main.b9f78268.js",
+    "runtime-main.js.map": "/github.io/redux-movie/static/js/runtime-main.b9f78268.js.map",
+    "static/js/2.094d6e6b.chunk.js": "/github.io/redux-movie/static/js/2.094d6e6b.chunk.js",
+    "static/js/2.094d6e6b.chunk.js.map": "/github.io/redux-movie/static/js/2.094d6e6b.chunk.js.map",
+    "index.html": "/github.io/redux-movie/index.html",
+    "precache-manifest.4189f8a325181fc45cec30536917a75a.js": "/github.io/redux-movie/precache-manifest.4189f8a325181fc45cec30536917a75a.js",
+    "service-worker.js": "/github.io/redux-movie/service-worker.js",
+    "static/css/main.25c94668.chunk.css.map": "/github.io/redux-movie/static/css/main.25c94668.chunk.css.map",
+    "static/js/2.094d6e6b.chunk.js.LICENSE.txt": "/github.io/redux-movie/static/js/2.094d6e6b.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.50e10096.js",
+    "static/js/runtime-main.b9f78268.js",
     "static/js/2.094d6e6b.chunk.js",
     "static/css/main.25c94668.chunk.css",
     "static/js/main.1ab1ad1e.chunk.js"
