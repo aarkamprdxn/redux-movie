@@ -1,6 +1,6 @@
 {
   "name": "redux-movie",
-  "homepage": "https://github.io/aarkamprdxn/redux-movie.git",
+  "homepage": "https://github.io/aarkamprdxn/redux-movie",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
